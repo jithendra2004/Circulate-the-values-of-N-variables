@@ -20,9 +20,14 @@ Using the slicing concept rotate the list
 #RegisterNumber:21005049
 def circulate():
  l=[10,20,30,40,50,60]
+
  n=(int(input()))
 
- print("After circulating the values are:",l[n:]+l[:n])
+
+
+ print("After circulating the values are:",l[n:]+l
+ 
+ [:n])
 
 ## Output:
 ![output](https://github.com/jithendra2004/Circulate-the-values-of-N-variables/blob/main/ex%202.png?raw=true)
